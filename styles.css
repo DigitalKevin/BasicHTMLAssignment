@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px;
+  padding: 0;
+  background-color: #2b2b2b;
+  color: #e6e6e6;
+}
+
+/* Links */
+a {
+  color: #66bfff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #a8dcff;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #a792e0;
+}
+
